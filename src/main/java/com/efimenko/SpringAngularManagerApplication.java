@@ -12,6 +12,7 @@ import java.util.Arrays;
 @SpringBootApplication
 public class SpringAngularManagerApplication {
 
+
     public static void main(String[] args) {
         SpringApplication.run(SpringAngularManagerApplication.class, args);
     }
